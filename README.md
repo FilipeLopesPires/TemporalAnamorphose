@@ -1,7 +1,7 @@
 # Temporal Anamorphose
 Study on Real-time Image Manipulation using Unity Shaders
 
-![](https://img.shields.io/badge/Maintained-Yes-success)
+![](https://img.shields.io/badge/Maintained-No-red)
 ![](https://img.shields.io/badge/Made%20With-Unity-lightgrey)
 ![](https://img.shields.io/badge/License-MIT-lightgrey)
 
@@ -19,4 +19,4 @@ The purpose is to learn in practice the use of shaders in Unity.
 
 The project is developed as a hobby based on online tutorials, courses and other sources.
 
-For further information, please contact me at filipesnetopires@ua.pt.
+For further information, please contact me at fsnap@protonmail.com.
